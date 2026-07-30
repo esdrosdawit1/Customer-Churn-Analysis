@@ -116,6 +116,9 @@ By identifying high-risk customers and understanding key drivers of churn, busin
 2. Install required libraries
 3. Run the notebook or script
 
+## Code
+Code: [Customer Churn Analysis.ipynb](https://github.com/esdrosdawit1/Customer-Churn-Analysis/blob/main/churn_analysis.ipynb)
+
 ---
 
 ## 📬 Author
